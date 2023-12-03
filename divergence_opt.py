@@ -1,3 +1,6 @@
+# divergence_opt.py
+# Created by George Chiriac, Ioana Marinescu, and Jiatong Yu
+
 import numpy as np
 import math
 import scipy.stats as st
